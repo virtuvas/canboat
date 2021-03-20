@@ -6251,7 +6251,7 @@ Pgn pgnList[] = {
      {{"Manufacturer Code", 11, RES_MANUFACTURER, false, "=137", "Maretron"},
       {"Reserved", 2, RES_NOTUSED, false, 0, ""},
       {"Industry Code", 3, RES_LOOKUP, false, "=4", "Marine Industry"},
-	  {"SID", BYTES(1), 1, false, 0, ""},
+      {"SID", BYTES(1), 1, false, 0, ""},
       {"Instance", BYTES(1), 1, false, 0, ""},
       {"Source", BYTES(1), RES_LOOKUP, false, LOOKUP_TEMPERATURE_SOURCE, ""},
       {"Actual Temperature", BYTES(2), RES_TEMPERATURE, false, "K", ""},
