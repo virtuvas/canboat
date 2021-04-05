@@ -20108,7 +20108,11 @@
               {"name":"Water","value":"1"},
               {"name":"Steam","value":"2"},
               {"name":"Compressed Air","value":"3"},
-              {"name":"Hydraulic","value":"4"}]},
+              {"name":"Hydraulic","value":"4"},
+              {"name":"Filter","value":"5"},
+              {"name":"AltimeterSetting","value":"6"},
+              {"name":"Oil","value":"7"},
+              {"name":"Fuel","value":"8"}]},
           {
             "Order":4,
             "Id":"pressure",
